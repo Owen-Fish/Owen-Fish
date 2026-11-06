@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Owen-Fish
-- 👀 I’m interested in Personlized-TTS, AIGC
-- 🌱 I’m currently learning the dirty work
+- 👀 I’m interested in Human-centric Video Augmentation、VLM, GenerativeModel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bwj2014@foxmail.com
 
